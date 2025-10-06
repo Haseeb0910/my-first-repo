@@ -8,3 +8,8 @@ Favorite programming language: JavaScript
 This section was added in the conflict-branch.
 We're learning about merge conflicts resolution.
 Favorite programming language: Python
+
+## Mistake Section
+This is a deliberate mistake for learning purposes.
+2 + 2 = 5
+The capital of France is London
